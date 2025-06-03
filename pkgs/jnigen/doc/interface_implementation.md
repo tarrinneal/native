@@ -51,7 +51,7 @@ class _$Runnable implements $Runnable {
 
 ### Implementing interfaces inline
 
-`Runnable` is used a lot to pass a void callback to a function. To simply this
+`Runnable` is used a lot to pass a void callback to a function. To simplify this
 workflow, Java 8 introduced lambdas.
 
 ```java
